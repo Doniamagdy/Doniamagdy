@@ -1,73 +1,62 @@
-<h1>Hi 👋, I'm Donia Magdy</h1> <p>
+<h1>Hi 👋, I'm Donia Magdy</h1>
 
+<p>
   <img src="https://komarev.com/ghpvc/?username=doniamagdy&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
 <h3>A passionate frontend developer from Egypt.</h3>
 
-
-
-<p>
-✨ I love building modern, clean & interactive web experiences ✨
-</p>
+<p>✨ I love building modern, clean & interactive web experiences ✨</p>
 
 <br/>
 
+<!-- ABOUT CARD -->
+<h3>🌸 About Me</h3>
 
-
-###   About Me
-
-- 🌱 I’m currently learning **TypeScript, Supabase**  
-- 👨‍💻 Check my work: [Portfolio](https://portfolio-tau-five-ufwp7kyoh5.vercel.app/)  
-- 📫 Email: **doniabahig92@gmail.com**  
-- 📄 [My CV](https://drive.google.com/file/d/1mck89o72sNAUKgqLTWhybhxZfh9WQK1v/view)  
-
-
+<p style="border:1px solid #eee; padding:15px; border-radius:10px;">
+🌱 I’m currently learning <b>TypeScript, Supabase</b><br/><br/>
+👨‍💻 Check my work: 
+<a href="https://portfolio-tau-five-ufwp7kyoh5.vercel.app/">Portfolio</a><br/><br/>
+📫 Email: <b>doniabahig92@gmail.com</b><br/><br/>
+📄 <a href="https://drive.google.com/file/d/1mck89o72sNAUKgqLTWhybhxZfh9WQK1v/view">My CV</a>
+</p>
 
 <br/>
 
 <!-- TOOLS CARD -->
+<h3>🛠 Languages & Tools</h3>
 
-###  Languages & Tools
-
-<p>
+<p style="border:1px solid #eee; padding:15px; border-radius:10px;">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind" />
 </p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 <!-- STATS CARD -->
+<h3>📊 My Activity</h3>
 
-### My Activity
-
-<p>
+<p style="border:1px solid #eee; padding:15px; border-radius:10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=doniamagdy" />
 </p>
-
 
 <br/>
 
 <!-- CONTACT CARD -->
+<h3>🌐 Connect with me</h3>
 
-### Connect with me
+<p style="border:1px solid #eee; padding:15px; border-radius:10px;">
+  <a href="https://www.youtube.com/@DoniaMagdy-i7f" target="_blank" style="margin-right:8px;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 
-<p>
-  <a href="[https://www.youtube.com/c/code with donia](https://www.youtube.com/@DoniaMagdy-i7f)">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  <a href="https://github.com/doniamagdy" target="_blank" style="margin-right:8px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/doniamagdy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YourLinkedIn">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/donia-magdy-b6480612b/)"/>
+
+  <a href="https://www.linkedin.com/in/donia-magdy-b6480612b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
 
 <br/>
 
