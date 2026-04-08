@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Supabase**  
 - 👨‍💻 Check my work: [Portfolio](https://portfolio-tau-five-ufwp7kyoh5.vercel.app/)  
-- 📫 Email: **doniabagih92@gmail.com**  
+- 📫 Email: **doniabahig92@gmail.com**  
 - 📄 [My CV](https://drive.google.com/file/d/1mck89o72sNAUKgqLTWhybhxZfh9WQK1v/view)  
 
 
