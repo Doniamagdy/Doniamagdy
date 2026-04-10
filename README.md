@@ -4,11 +4,19 @@
 ### A passionate Frontend Developer from Egypt✨  
 <br/>
 
-🌱 Learning: TypeScript & Supabase <br/>
-👨‍💻 Portfolio: https://portfolio-tau-five-ufwp7kyoh5.vercel.app/   <br/>
-📫 Email: doniabahig92@gmail.com  <br/>
-📄 CV: https://drive.google.com/file/d/1mck89o72sNAUKgqLTWhybhxZfh9WQK1v/view  <br/>
+### ✨ About Me
 
+<pre style="border:1px solid #e5e5e5; border-radius:10px; padding:14px; font-family:monospace; background:#ffffff;">
+
+🌱 Learning: TypeScript & Supabase
+
+👨‍💻 Portfolio:<a href="https://portfolio-tau-five-ufwp7kyoh5.vercel.app/">View Portfolio</a>
+
+📫 Email:<a href="mailto:doniabahig92@gmail.com">doniabahig92@gmail.com</a>
+
+📄 Resume:<a href="https://drive.google.com/file/d/1mck89o72sNAUKgqLTWhybhxZfh9WQK1v/view">View Resume</a>
+
+</pre>
 <br/>
 
 ### 🛠Technologies
