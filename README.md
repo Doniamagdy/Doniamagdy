@@ -27,7 +27,7 @@
 
 ### 🎯2026 Goals
 <pre style="border:1px solid #e5e5e5; border-radius:10px; padding:14px; font-family:monospace; background:#ffffff;">
-💼 Get a Frontend Developer Job
+💼 Land a Front-End Developer role
 📘 Master TypeScript
 </pre>
 
