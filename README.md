@@ -31,7 +31,4 @@
 📘 Master TypeScript
 </pre>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DoniaMagdy&hide_border=true&card_width=1000" />
 
