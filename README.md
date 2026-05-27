@@ -12,7 +12,7 @@
 
 👨‍💻 <a href="https://portfolio-4grk.vercel.app/">My Portfolio</a>
   
-📄 <a href="https://drive.google.com/file/d/1vMy-r0v9iHYc0S_jZDaswKOSqeGtQ4HW/view?usp=sharing">My Resume</a>
+📄 <a href="https://drive.google.com/file/d/1neNsaYaWL8fgZNVJdZ02sT6-mZGFDWhi/view?usp=sharing">My Resume</a>
 
 </pre>
 <br/>
