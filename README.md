@@ -6,7 +6,7 @@
 
 <pre style="border:1px solid #e5e5e5; border-radius:10px; padding:14px; font-family:monospace; background:#ffffff;">
 
-🌱 Learning: TypeScript & Supabase
+🌱 Learning: TypeScript & NextJs
 
 📫 Email:doniabahig92@gmail.com
 
