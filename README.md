@@ -12,7 +12,6 @@
 
 👨‍💻 <a href="https://portfolio-4grk.vercel.app/">My Portfolio</a>
   
-📄 <a href="https://drive.google.com/file/d/1eSVFRocEr4YK_8CYDsrwPEV827O6_cLM/view?usp=sharing">My Resume</a>
 
 </pre>
 <br/>
